@@ -2,7 +2,7 @@
 
 [Installation de Bun js](#installation)
 [Installation de la VM](#installation)
-[Liste des dépendances et description des dépendances](#dépendances)
+[Liste des dépendances et description des dépendances](#dependances)
 [Pourquoi avoir choisi cette liste](#pourquoi)
 
 
