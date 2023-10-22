@@ -37,15 +37,16 @@ L'application tourne sur le port 3000 par défaut sinon 8000.
 -Lancer le projet : bun run index.js ou index.ts selon le choix de typescript ou non.
 
 ### Installation des dépendances
--Dans le bash entrez : bun install et le nom de la dépendance
--elysia : bun add elysia
--@elysiajs/cookie : bun add @elysiajs/cookie
--@elysiajs/jwt : bun add @elysiajs/jwt
--mongoDb : bun add mongoDb
--mongoose : bun add mongoose
--mongoose-unique-validator : bun add mongoose-unique-validator
--dotenv : bun add dotenv
-##Dependances
+Dans le bash entrez : bun install et le nom de la dépendance
+- elysia : bun add elysia
+- @elysiajs/cookie : bun add @elysiajs/cookie
+- @elysiajs/jwt : bun add @elysiajs/jwt
+- mongoDb : bun add mongoDb
+- mongoose : bun add mongoose
+- mongoose-unique-validator : bun add mongoose-unique-validator
+- dotenv : bun add dotenv
+  
+## Dependances
 |   Dépendances            |            Description                                      |
 |--------------------------|-------------------------------------------------------------|
 |   elysia                 |  couche supplémentaire à Bun js                                                                                       |  
