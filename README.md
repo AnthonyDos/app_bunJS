@@ -1,15 +1,15 @@
 # Gestionnaire de tache
 
-[Installation de Bun js](#installationBun)
+[Installation de Bun js](#installation)
 [Installation de la VM](#installation)
-[Liste des dépendances et description des dépendances](#dependances)
+[Liste des dépendances et description des dépendances](#dépendances)
 [Pourquoi avoir choisi cette liste](#pourquoi)
 
 
 This project was created using `bun init` in bun v1.0.6. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 
 
-##Installation
+## Installation
 
 Il faudra avant de commencer à lancé l'application, créer les variables d'environnements.
 L'application tourne sur le port 3000 par défaut sinon 8000.
@@ -21,7 +21,7 @@ L'application tourne sur le port 3000 par défaut sinon 8000.
  -Créer un projet depuis NPM : bun create nom du projet et destination
  -Lancer le projet : bun run index.js ou index.ts selon le choix de typescript ou non.
 
-####Commandes supplémentaires:
+#### Commandes supplémentaires:
 |   Commandes         |            Description de la commande                       |
 |---------------------|-------------------------------------------------------------|
 |   --force           | écraser les fichiers existants                              |
@@ -56,7 +56,7 @@ L'application tourne sur le port 3000 par défaut sinon 8000.
 |mongoose-unique-validator | ajoute une validation de champ unique à vos schémas Mongoose|
 |   dotenv                 | Les variables d'environnement sont des variables externes à votre application qui stockent des configurations sensibles telles que les clés d'API, les identifiants de base de données, les secrets, etc.                                       | 
 
-##Pourquoi
+## Pourquoi
 
 **Bun js** : rapidité de développement, vue claire et structurée et Intégration de composants. 
 
